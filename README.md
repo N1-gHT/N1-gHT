@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N1H&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username= twitter.com/N_1_gHt)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=N_1_gHt)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=N1H&icon=1&color=1)](https://visitcount.itsvg.in)
