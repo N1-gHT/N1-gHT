@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N1gHT#2629) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/N_1_gHt)
-[![Root-Me](https://img.shields.io/static/v1?style=for-the-badge&message=Root+Me&color=000000&logo=Root+Me&logoColor=white&label=)](https://www.root-me.org/N1gHt-494525)
+[![Root-Me](https://img.shields.io/static/v1?style=for-the-badge&message=Root+Me&color=000000&logo=Root+Me&logoColor=FFFFFF&label=)](https://www.root-me.org/N1gHt-494525)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
