@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @N1h<br>I'm currently study in France, in network and telecom, i'm specialized in cybersecurity<br>👀 I’m interested in IT,Crypto and Security<br>🌱 I’m currently learning network, sysadmin and cybersecurity<br>📫 You find me on twitter or on discord<br>Everything in my code is in french but i'm able to translate it in english<br><br>
+👋 Hi, I’m @N1h<br>I'm currently working in France, in network and telecom, i'm specialized in cybersecurity<br>👀 I’m interested in IT,Crypto and Security<br>🌱 I’m always learning network, sysadmin and cybersecurity<br>📫 You find me on twitter or on discord<br>Most of my code is in french but i'm able to translate it in english<br><br>
 
 
 ## 🌐 Socials:
